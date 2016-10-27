@@ -1,1 +1,1 @@
-# blade-style-guide
+# Blade Style Guide
