@@ -1,6 +1,10 @@
 # Blade Style Guide
 
-> 1 space after start control structure directives
+(work in progress)
+
+## Control structures
+
+### 1 space after start control structure directives
 - `@if`
 - `@elseif`
 - `@for`
@@ -9,8 +13,7 @@
 - `@unless`
 - `@forelse`
 
-
-> No spaces after other directives
+### No spaces after other directives
 - `@endif`
 - `@endfor`
 - `@else`
@@ -35,6 +38,6 @@
 - `@endpush`
 - `@stack`
 
-> 1 space on surrounding render directive content
+### 1 space between render braces and their content
 - `{{ $x }}`
 - `{!! $x !!}`
